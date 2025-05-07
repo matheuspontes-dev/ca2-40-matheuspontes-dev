@@ -1,6 +1,6 @@
 package CA_2;
 
-// Class to store employee 3 details
+// Class to store employee details
 public class Employee {
     private String name;
     private ManagerType managerType;

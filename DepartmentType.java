@@ -1,4 +1,4 @@
-package CA_2;
+package CA_2Matheus;
 
 // Types of departments
 public enum DepartmentType {

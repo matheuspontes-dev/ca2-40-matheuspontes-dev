@@ -1,4 +1,4 @@
-package CA_2;
+package CA_2Matheus;
 
 // Types of managers
 public enum ManagerType {

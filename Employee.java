@@ -1,4 +1,4 @@
-package CA_2;
+package CA_2Matheus;
 
 // Class to store employee details
 public class Employee {

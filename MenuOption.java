@@ -1,4 +1,4 @@
-package CA_2;
+package CA_2Matheus;
 
 // Menu options for the main menu
 public enum MenuOption {
